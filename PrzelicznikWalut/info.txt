@@ -1,0 +1,7 @@
+# PrzelicznikWalut
+
+Simple aplication for currency convert. 
+
+Aplication converts only one currency compared to polish zloty and works only when internet connection is on. 
+
+No additional action in the background. When user quit app all data is lost

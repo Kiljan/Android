@@ -1,0 +1,13 @@
+# Notes
+
+
+The project includes only .java files that were used when creating the application. 
+
+.java files contain comments describing execution of the code. 
+
+The application itself is available on the PlayStore so you can check it if you whant.
+
+Parameters to PlayStore:  
+Name ==> #Note; 
+Developer ==> Piotr Kiljanek; 
+Link ==> https://play.google.com/store/apps/details?id=com.honestman.piotrk.notes&hl=pl
