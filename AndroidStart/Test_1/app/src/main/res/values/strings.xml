@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Test_1</string>
-    <string name="title_activity_secondary">SecondaryActivity</string>
-    <string name="buttonOne">Click Me to Send</string>
-    <string name="buttonTwo">Click for Map</string>
-    <string name="buttonThree">Click for WWW</string>
-</resources>

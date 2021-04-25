@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Test_2</string>
-    <string name="textOne">Massage to show</string>
-    <string name="buttonOne">Download msg</string>
-    <string name="editTextOne">Enter message</string>
-    <string name="buttonSend">Send message</string>
-    <string name="cancelButton">Cancel</string>
-</resources>
